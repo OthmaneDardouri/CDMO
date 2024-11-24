@@ -1,0 +1,14 @@
+{
+   "standard": {
+      "time": 300,
+      "optimal": false,
+      "obj": "N/A",
+      "sol": []
+   },
+   "standard_sym_heu": {
+      "time": 300,
+      "optimal": false,
+      "obj": "N/A",
+      "sol": []
+   }
+}
